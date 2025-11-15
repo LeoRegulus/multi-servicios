@@ -22,7 +22,7 @@ const galleryImages = [
     "descripcion": "Cinta transportadora con botellas avanzando en proceso de llenado y sellado, bajo iluminación industrial azul.",
     "categoria": "Línea de Producción",
     "alt": "Línea de producción automática de envasado de agua con botellas en movimiento",
-    "urlImage": "/planta/planta01.png"
+    "urlImage": "./planta/planta01.png"
   },
   {
     "id": 2,
@@ -30,7 +30,7 @@ const galleryImages = [
     "descripcion": "Técnico en uniforme blanco y casco supervisando el proceso de llenado de botellas en una máquina industrial.",
     "categoria": "Operación & Control",
     "alt": "Operario ajustando botellas en máquina de envasado con guantes y casco",
-    "urlImage": "/planta/planta02.png"
+    "urlImage": "./planta/planta02.png"
   },
   {
     "id": 3,
@@ -38,7 +38,7 @@ const galleryImages = [
     "descripcion": "Vista panorámica de una línea de envasado con múltiples botellas siendo llenadas, tapadas y etiquetadas.",
     "categoria": "Línea de Producción",
     "alt": "Línea de envasado de agua con botellas en proceso de llenado y etiquetado",
-    "urlImage": "/planta/planta03.png"
+    "urlImage": "./planta/planta03.png"
   },
   {
     "id": 4,
@@ -46,7 +46,7 @@ const galleryImages = [
     "descripcion": "Equipo de laboratorio realizando pruebas de calidad del agua en frascos y equipos especializados.",
     "categoria": "Calidad & Laboratorio",
     "alt": "Laboratorio de calidad con técnicos analizando muestras de agua en frascos",
-    "urlImage": "/planta/planta04.png"
+    "urlImage": "./planta/planta04.png"
   },
   {
     "id": 5,
@@ -54,7 +54,7 @@ const galleryImages = [
     "descripcion": "Área de almacenamiento con estanterías altas, paletas de botellas empacadas y montacargas en operación.",
     "categoria": "Almacenamiento & Logística",
     "alt": "Almacén de botellas con montacargas y estanterías altas",
-    "urlImage": "/planta/planta05.png"
+    "urlImage": "./planta/planta05.png"
   },
   {
     "id": 6,
@@ -62,7 +62,7 @@ const galleryImages = [
     "descripcion": "Plataforma de carga con camiones estacionados, trabajadores manejando paletas y preparando envíos.",
     "categoria": "Logística & Distribución",
     "alt": "Área de carga y descarga de camiones con trabajadores y paletas de botellas",
-    "urlImage": "/planta/planta06.png"
+    "urlImage": "./planta/planta06.png"
   },
   {
     "id": 7,
@@ -70,7 +70,7 @@ const galleryImages = [
     "descripcion": "Sistema de tanques y tuberías industriales para purificación y tratamiento del agua antes del envasado.",
     "categoria": "Tratamiento & Purificación",
     "alt": "Tanques y tuberías de tratamiento de agua en planta industrial",
-    "urlImage": "/planta/planta07.png"
+    "urlImage": "./planta/planta07.png"
   },
   {
     "id": 8,
@@ -78,7 +78,7 @@ const galleryImages = [
     "descripcion": "Centro de control con pantallas LED, operadores supervisando procesos en tiempo real y sistemas automatizados.",
     "categoria": "Control & Automatización",
     "alt": "Sala de control con monitores y operadores supervisando procesos de planta",
-    "urlImage": "/planta/planta08.png"
+    "urlImage": "./planta/planta08.png"
   },
   {
     "id": 9,
@@ -86,7 +86,7 @@ const galleryImages = [
     "descripcion": "Ingeniero en traje azul inspeccionando filtros y válvulas en un sistema de purificación de agua.",
     "categoria": "Mantenimiento & Filtración",
     "alt": "Técnico revisando sistema de filtración de agua con herramientas y tablet",
-    "urlImage": "/planta/planta09.png"
+    "urlImage": "./planta/planta09.png"
   },
   {
     "id": 10,
@@ -94,7 +94,7 @@ const galleryImages = [
     "descripcion": "Captación de agua desde río o manantial natural, con infraestructura moderna y compromiso ambiental.",
     "categoria": "Captación & Sostenibilidad",
     "alt": "Fuente natural de agua con captación sostenible y estructura moderna",
-    "urlImage": "/planta/planta010.png"
+    "urlImage": "./planta/planta010.png"
   },
   {
     "id": 11,
@@ -102,7 +102,7 @@ const galleryImages = [
     "descripcion": "Equipo técnico en chalecos naranjas revisando maquinaria de producción y asegurando su funcionamiento óptimo.",
     "categoria": "Operación & Mantenimiento",
     "alt": "Trabajadores inspeccionando equipo industrial en planta de envasado",
-    "urlImage": "/planta/planta011.png"
+    "urlImage": "./planta/planta011.png"
   },
   {
     "id": 12,
@@ -110,7 +110,7 @@ const galleryImages = [
     "descripcion": "Unidad de esterilización con luz ultravioleta para desinfectar botellas y garantizar la pureza del agua.",
     "categoria": "Esterilización & Seguridad",
     "alt": "Sistema de esterilización UV con luces azules para desinfección de botellas",
-    "urlImage": "/planta/planta012.png"
+    "urlImage": "./planta/planta012.png"
   },
   {
     "id": 13,
@@ -118,7 +118,7 @@ const galleryImages = [
     "descripcion": "Laboratoristas realizando pruebas microbiológicas y químicas en muestras de agua para cumplir estándares de calidad.",
     "categoria": "Calidad & Laboratorio",
     "alt": "Laboratorio con microscopios y análisis de calidad del agua",
-    "urlImage": "/planta/planta013.png"
+    "urlImage": "./planta/planta013.png"
   },
   {
     "id": 14,
@@ -126,7 +126,7 @@ const galleryImages = [
     "descripcion": "Equipos de ósmosis inversa y filtración avanzada para eliminar impurezas y minerales del agua antes del envasado.",
     "categoria": "Tratamiento & Purificación",
     "alt": "Sistema de ósmosis inversa para purificación de agua en planta industrial",
-    "urlImage": "/planta/planta014.png"
+    "urlImage": "./planta/planta014.png"
   }
 ]
 

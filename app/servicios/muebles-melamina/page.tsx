@@ -20,7 +20,7 @@ const galleryImages = [
     "descripcion": "Escritorio de diseño minimalista con espacio de trabajo, cajones y estantería abierta para libros y accesorios.",
     "categoria": "Oficina & Estudio",
     "alt": "Escritorio moderno con estantería y cajones en madera clara y blanco",
-    "urlImage": "/muebles/mueble01.png"
+    "urlImage": "./muebles/mueble01.png"
   },
   {
     "id": 2,
@@ -28,7 +28,7 @@ const galleryImages = [
     "descripcion": "Mueble de entretenimiento con acabado en madera y blanco, iluminación ambiental y espacio para televisión y consolas.",
     "categoria": "Sala & Entretenimiento",
     "alt": "Mueble TV moderno con iluminación LED y diseño bajo",
-    "urlImage": "/muebles/mueble02.png"
+    "urlImage": "./muebles/mueble02.png"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@ const galleryImages = [
     "descripcion": "Cocina modular con gabinetes blancos, encimera de mármol, horno y lavavajillas integrados, ideal para espacios modernos.",
     "categoria": "Cocina & Comedor",
     "alt": "Cocina moderna con gabinetes blancos y electrodomésticos integrados",
-    "urlImage": "/muebles/mueble03.png"
+    "urlImage": "./muebles/mueble03.png"
   },
   {
     "id": 4,
@@ -44,7 +44,7 @@ const galleryImages = [
     "descripcion": "Armario de vestidor con puertas correderas en madera clara, estantes, cajones y varilla para colgar ropa.",
     "categoria": "Dormitorio & Vestidor",
     "alt": "Closet moderno con puertas correderas y organización interna",
-    "urlImage": "/muebles/mueble04.png"
+    "urlImage": "./muebles/mueble04.png"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@ const galleryImages = [
     "descripcion": "Estantería de madera con múltiples niveles para libros, plantas y objetos decorativos, ideal para salas o estudios.",
     "categoria": "Sala & Decoración",
     "alt": "Librería abierta moderna con libros y plantas decorativas",
-    "urlImage": "/muebles/mueble05.png"
+    "urlImage": "./muebles/mueble05.png"
   },
   {
     "id": 6,
@@ -60,7 +60,7 @@ const galleryImages = [
     "descripcion": "Mueble de mostrador con acabado en blanco mate y base de madera, ideal para oficinas, cafeterías o recibidores.",
     "categoria": "Comercial & Oficina",
     "alt": "Mueble de recepción moderno con superficie blanca y base de madera",
-    "urlImage": "/muebles/mueble06.png"
+    "urlImage": "./muebles/mueble06.png"
   },
   {
     "id": 7,
@@ -68,7 +68,7 @@ const galleryImages = [
     "descripcion": "Mesa de centro con tablero de madera y patas delgadas en metal, perfecta para salas contemporáneas.",
     "categoria": "Sala & Entretenimiento",
     "alt": "Mesa de centro moderna con madera y patas metálicas",
-    "urlImage": "/muebles/mueble07.png"
+    "urlImage": "./muebles/mueble07.png"
   },
   {
     "id": 8,
@@ -76,7 +76,7 @@ const galleryImages = [
     "descripcion": "Credenza o aparador con puertas lisas en madera oscura y estructura metálica, ideal para salas o comedor.",
     "categoria": "Sala & Decoración",
     "alt": "Aparador moderno de madera oscura con patas metálicas",
-    "urlImage": "/muebles/mueble08.png"
+    "urlImage": "./muebles/mueble08.png"
   },
   {
     "id": 9,
@@ -84,7 +84,7 @@ const galleryImages = [
     "descripcion": "Juego de comedor con mesa rectangular y sillas con asiento tapizado y estructura de madera, ideal para cocina o comedor.",
     "categoria": "Cocina & Comedor",
     "alt": "Mesa de comedor con sillas escandinavas y diseño minimalista",
-    "urlImage": "/muebles/mueble09.png"
+    "urlImage": "./muebles/mueble09.png"
   },
   {
     "id": 10,
@@ -92,7 +92,7 @@ const galleryImages = [
     "descripcion": "Cómoda de estilo retro con cajones pintados en colores pastel y patas finas, ideal para dormitorios juveniles o decoración.",
     "categoria": "Dormitorio & Decoración",
     "alt": "Cómoda con cajones de colores pastel y diseño retro",
-    "urlImage": "/muebles/mueble010.png"
+    "urlImage": "./muebles/mueble010.png"
   },
   {
     "id": 11,
@@ -100,7 +100,7 @@ const galleryImages = [
     "descripcion": "Repisa delgada y flotante con soporte minimalista, ideal para colocar objetos decorativos en entradas o pasillos.",
     "categoria": "Entrada & Decoración",
     "alt": "Consola flotante moderna para entrada o pasillo con objetos decorativos",
-    "urlImage": "/muebles/mueble011.png"
+    "urlImage": "./muebles/mueble011.png"
   },
   {
     "id": 12,
@@ -108,7 +108,7 @@ const galleryImages = [
     "descripcion": "Mesita de noche con cajón y superficie plana, ideal para lámpara, libros o reloj, con diseño limpio y funcional.",
     "categoria": "Dormitorio & Descanso",
     "alt": "Mesita de noche moderna junto a cama con cajón y superficie limpia",
-    "urlImage": "/muebles/mueble012.png"
+    "urlImage": "./muebles/mueble012.png"
   }
 ];
 
