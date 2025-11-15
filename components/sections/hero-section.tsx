@@ -18,7 +18,7 @@ const services = [
     bgColor: "bg-blue-500/10",
     textColor: "text-blue-800",
     dotColor: "bg-blue-500",
-    urlImage: "./slider/slider01.webp",
+    urlImage: "/slider/slider01.webp",
   },
   {
     id: "muebles-melamina",
