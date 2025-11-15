@@ -19,7 +19,7 @@ const galleryImages = [
     "descripcion": "Sistema de seguridad en una calle comercial con cámaras instaladas en edificios históricos durante la noche.",
     "categoria": "Institucional & Pública",
     "alt": "Cámara de seguridad en calle peatonal iluminada por faroles y luces de tiendas",
-    "src": "/galeria/camaras/camara01.png"
+    "src": "./galeria/camaras/camara01.png"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@ const galleryImages = [
     "descripcion": "Cámaras monitorean una plaza concurrida al atardecer, integrando tecnología de reconocimiento facial en pantallas públicas.",
     "categoria": "Institucional & Pública",
     "alt": "Cámaras de seguridad en plaza concurrida y pantalla de reconocimiento facial",
-    "src": "/galeria/camaras/camara02.png"
+    "src": "./galeria/camaras/camara02.png"
   },
   {
     "id": 3,
@@ -35,7 +35,7 @@ const galleryImages = [
     "descripcion": "Cámaras de alta definición supervisan un almacén industrial con sistemas de IA para análisis en tiempo real.",
     "categoria": "Industrial & Logístico",
     "alt": "Cámaras de vigilancia en almacén con interfaz digital de monitoreo inteligente",
-    "src": "/galeria/camaras/camara03.png"
+    "src": "./galeria/camaras/camara03.png"
   },
   {
     "id": 4,
@@ -43,7 +43,7 @@ const galleryImages = [
     "descripcion": "Técnico instalando cámara de seguridad en un espacio de trabajo corporativo con ventanas panorámicas.",
     "categoria": "Oficinas & Corporativo",
     "alt": "Técnico en escalera instalando cámara de seguridad en oficina moderna",
-    "src": "/galeria/camaras/camara04.png"
+    "src": "./galeria/camaras/camara04.png"
   },
   {
     "id": 5,
@@ -51,7 +51,7 @@ const galleryImages = [
     "descripcion": "Equipo técnico instalando cámaras en fachada de vivienda familiar con jardín y terraza.",
     "categoria": "Residencial & Hogar",
     "alt": "Instalación de cámaras de seguridad en casa residencial con jardín y terraza",
-    "src": "/galeria/camaras/camara05.png"
+    "src": "./galeria/camaras/camara05.png"
   },
   {
     "id": 6,
@@ -59,7 +59,7 @@ const galleryImages = [
     "descripcion": "Técnico ajustando cámaras en pasillos de supermercado para prevenir robos y monitorear tráfico de clientes.",
     "categoria": "Comercio & Retail",
     "alt": "Instalación de cámaras en supermercado con estanterías llenas de productos",
-    "src": "/galeria/camaras/camara06.png"
+    "src": "./galeria/camaras/camara06.png"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@ const galleryImages = [
     "descripcion": "Sistema de vigilancia en almacén grande con montacargas y estanterías altas, instalado por técnico en altura.",
     "categoria": "Industrial & Logístico",
     "alt": "Instalación de cámaras en bodega industrial con montacargas y estanterías",
-    "src": "/galeria/camaras/camara07.png"
+    "src": "./galeria/camaras/camara07.png"
   },
   {
     "id": 8,
@@ -75,7 +75,7 @@ const galleryImages = [
     "descripcion": "Instalación de cámaras en pasillo de escuela o universidad, con estudiantes caminando y personal de seguridad.",
     "categoria": "Institucional & Pública",
     "alt": "Cámaras de seguridad en pasillo escolar con estudiantes y técnico en escalera",
-    "src": "/galeria/camaras/camara08.png"
+    "src": "./galeria/camaras/camara08.png"
   },
   {
     "id": 9,
@@ -83,7 +83,7 @@ const galleryImages = [
     "descripcion": "Técnico instalando cámara en garaje con vehículos estacionados, ideal para control de acceso y seguridad.",
     "categoria": "Residencial & Hogar",
     "alt": "Instalación de cámara de seguridad en garaje subterráneo con coches estacionados",
-    "src": "/galeria/camaras/camara09.png"
+    "src": "./galeria/camaras/camara09.png"
   },
   {
     "id": 10,
@@ -91,7 +91,7 @@ const galleryImages = [
     "descripcion": "Sistema de vigilancia en pasillo clínico o hospitalario, con personal médico y pacientes transitando.",
     "categoria": "Institucional & Pública",
     "alt": "Cámaras de seguridad en pasillo de hospital con personal médico y pacientes",
-    "src": "/galeria/camaras/camara010.png"
+    "src": "./galeria/camaras/camara010.png"
   },
   {
     "id": 11,
@@ -99,7 +99,7 @@ const galleryImages = [
     "descripcion": "Técnico instalando cámara en lobby de oficina con recepcionistas y visitantes, asegurando entrada segura.",
     "categoria": "Oficinas & Corporativo",
     "alt": "Instalación de cámara en recepción corporativa con personal y visitantes",
-    "src": "/galeria/camaras/camara011.png"
+    "src": "./galeria/camaras/camara011.png"
   },
   {
     "id": 12,
@@ -107,7 +107,7 @@ const galleryImages = [
     "descripcion": "Cámaras monitorean gasolinera durante la noche, con luces brillantes y vehículos en surtidores.",
     "categoria": "Comercio & Retail",
     "alt": "Cámaras de seguridad en estación de servicio con luces y coches en surtidores",
-    "src": "/galeria/camaras/camara012.png"
+    "src": "./galeria/camaras/camara012.png"
   },
   {
     "id": 13,
@@ -115,7 +115,7 @@ const galleryImages = [
     "descripcion": "Técnico en andamio instalando cámaras en obra en construcción, para seguridad laboral y vigilancia del sitio.",
     "categoria": "Industrial & Logístico",
     "alt": "Instalación de cámaras en edificio en construcción con andamios y obreros",
-    "src": "/galeria/camaras/camara013.png"
+    "src": "./galeria/camaras/camara013.png"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@ const galleryImages = [
     "descripcion": "Sistema de vigilancia en propiedad residencial de lujo con piscina, terrazas y palmeras, para seguridad privada.",
     "categoria": "Lujo & Propiedades Exclusivas",
     "alt": "Cámaras de seguridad en villa de lujo con piscina y vista al mar",
-    "src": "/galeria/camaras/camara014.png"
+    "src": "./galeria/camaras/camara014.png"
   }
 ]
 
