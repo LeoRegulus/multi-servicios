@@ -18,7 +18,7 @@ const services = [
     bgColor: "bg-blue-500/10",
     textColor: "text-blue-800",
     dotColor: "bg-blue-500",
-    urlImage: "/slider/slider01.webp",
+    urlImage: "./slider/slider01.webp",
   },
   {
     id: "muebles-melamina",
@@ -30,7 +30,7 @@ const services = [
     bgColor: "bg-amber-500/10",
     textColor: "text-amber-800",
     dotColor: "bg-amber-500",
-    urlImage: "/slider/slider02.webp",
+    urlImage: "./slider/slider02.webp",
   },
   {
     id: "planta-agua",
@@ -42,7 +42,7 @@ const services = [
     bgColor: "bg-cyan-500/10",
     textColor: "text-cyan-800",
     dotColor: "bg-cyan-500",
-    urlImage: "/slider/slider03.webp",
+    urlImage: "./slider/slider03.webp",
   }
 ]
 
